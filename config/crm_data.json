@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"name": "Алекс",
+		"past_purchase": "BMW X5",
+		"price": 100000,
+		"deal_status": "лид"
+	},
+	{
+		"id": 2,
+		"name": "Мария",
+		"past_purchase": "Mercedes C-Class",
+		"price": 150000,
+		"deal_status": "в процессе"
+	},
+	{
+		"id": 3,
+		"name": "Сергей",
+		"past_purchase": "",
+		"price": "",
+		"deal_status": ""
+	}
+]

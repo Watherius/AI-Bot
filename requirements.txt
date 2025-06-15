@@ -1,0 +1,7 @@
+aiogram
+asyncio
+logging
+decouple
+json
+langchain_community
+langchain-openai
